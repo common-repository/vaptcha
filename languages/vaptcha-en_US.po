@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VAPTCHA\n"
+"POT-Creation-Date: 2018-07-24 14:35+0800\n"
+"PO-Revision-Date: 2021-09-24 15:09+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_001\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: vaptcha.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: VaptchaPlugin.php:130 VaptchaPlugin.php:148 VaptchaPlugin.php:163
+#: VaptchaPlugin.php:244 VaptchaPlugin.php:252
+msgid "人机验证未通过"
+msgstr "man-machine validation failed"
+
+#: options.php:22
+msgid "VAPTCHA智能人机验证"
+msgstr "VAPTCHA"
+
+#: options.php:23
+msgid "VAPTCHA手势验证码是基于人工智能和大数据的次世代人机验证解决方案，安全强度极高，是目前唯一未被自动化程序破解的验证码。快速接入，完全免费，请放心使用."
+msgstr "VAPTCHA is the best AI CAPTCHA at present, which is completely free. VAPTCHA can Completely intercept database collision, spam, network irrigation and other attacks."
+
+#: options.php:30
+msgid "请登录VAPTCHA官网免费获取VID及Key，填写保存后即可生效。官网地址:"
+msgstr "Please fill in the vid and key in the table below and save them:"
+
+#: options.php:34
+msgid "人机验证设置"
+msgstr "Basic settings"
+
+#: options.php:36
+msgid "（登录VAPTCHA - 创建验证单元  -  免费获取）"
+msgstr "(Please fill in the vid and key in the table below and save them)"
+
+#: options.php:58
+msgid "按钮风格"
+msgstr "Button Style"
+
+#: options.php:64
+msgid "深色"
+msgstr "Dark"
+
+#: options.php:68
+msgid "浅色"
+msgstr "Light"
+
+#: options.php:73
+msgid "按钮颜色"
+msgstr "Button color"
+
+#: options.php:82
+msgid "按钮高度(PX)"
+msgstr "Button height(PX)"
+
+#: options.php:89
+msgid "不得低于36px"
+msgstr "Not less than 36px"
+
+#: options.php:92
+msgid "按钮宽度(PX)"
+msgstr "Button width(PX)"
+
+#: options.php:99
+msgid "不得低于200px"
+msgstr "Not less than 200px"
+
+#: options.php:102
+msgid "其他设置"
+msgstr "Other settings"
+
+#: options.php:105
+msgid "启用模块"
+msgstr "Where to enable"
+
+#: options.php:112
+msgid "登录"
+msgstr "Log in"
+
+#: options.php:118
+msgid "注册"
+msgstr "Sign up"
+
+#: options.php:124
+msgid "评论"
+msgstr "Comment"
+
+#: options.php:130
+msgid "语言设定"
+msgstr "Language"
+
+#: options.php:146
+msgid "验证节点"
+msgstr "Node"
+
+#: options.php:150
+msgid "中国大陆"
+msgstr "China"
+
+#: options.php:151
+msgid "东南亚"
+msgstr "Southeast Asia"
+
+#: options.php:152
+msgid "北美"
+msgstr "North America"
+
+#: options.php:153
+msgid "欧洲"
+msgstr "Auto"
+
+#: options.php:161
+msgid "保存设置"
+msgstr "Save"
+
+#. Plugin Name of the plugin/theme
+msgid "VAPTCHA 手势验证码"
+msgstr "VAPTCHA"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.vaptcha.com"
+msgstr "https://en.vaptcha.com"
+
+#. Description of the plugin/theme
+msgid "VAPTCHA是基于人工智能和大数据的创新人机验证解决方案。 通过综合分析用户的行为特征、生物特征、网络环境等，VAPTCHA 高效、不断进化的智能风控引擎能准确的识别并拦截包括人工打码在 内的攻击请求。与传统验证码相比，无论在安全级别还是用户体验， VAPTCHA都有显著的优势."
+msgstr "VAPTCHA is a new type of human-machine verification solution based on artificial intelligence and big data. Through comprehensive analysis of user behavior characteristics, biological characteristics, network environment, etc., VAPTCHA's efficient and evolving intelligent risk control engine can accurately identify and intercept attack requests including manual coding. Compared with traditional verification codes, VAPTCHA has significant advantages in terms of security and user experience."
+
+#. Author of the plugin/theme
+msgid "vaptcha"
+msgstr "vaptcha"
+
+#. readme.txt: 19
+msgid "== 极安全 =="
+msgstr "Safer"
+
+#: readme.txt:46
+msgid "将Vaptcha插件上传到您的博客，激活vaptcha，然后在设置中配置Vid和Key."
+msgstr "Upload the VAPTCHA plugin to your blog, activate it, and then configure Vid and Key in the settings."
+
+#~ msgid "vaptcha Vid，你可以在<a href=\"https://www.vaptcha.com\" target=\"_blank\">VPATCHA 官网</a>注册账号获取"
+#~ msgstr "Vaptcha Vid, you can be in <a href=\"https://www.vaptcha.com\" target=\"_blank\">VPATCHA </a> website created a account and get vid"
+
+#~ msgid "vaptcha Key，你可以在<a href=\"https://www.vaptcha.com\" target=\"_blank\">VPATCHA 官网</a>注册账号获取"
+#~ msgstr "Vaptcha Vid, you can be in <a href=\"https://www.vaptcha.com\" target=\"_blank\">VPATCHA </a> website created a account and get key"
+
+#~ msgid "开启智能检测"
+#~ msgstr "If turn to this option,the safest users can pass test with one simple click less than 200ms,only the  high-risk operations or client  needs to complete  gesture verification"
+
+#~ msgid "vaptcha Vid，你可以在<a href=\"https://www.vaptcha.com\" target=\"_blank\">https://www.vaptcha.com</a>注册账号获取"
+#~ msgstr "vaptcha Vid，you can access <a href=\"https://www.vaptcha.com\" target=\"_blank\">VPATCHA</a>  create a account after get"
+
+#~ msgid "vaptcha Key，你可以在<a href=\"https://www.vaptcha.com\" target=\"_blank\">https://www.vaptcha.com</a>注册账号获取"
+#~ msgstr "vaptcha Key，you can access<a href=\"https://www.vaptcha.com\" target=\"_blank\">VAPTCHA</a>  create a account after get"
+
+#~ msgid "Vaptcha设置"
+#~ msgstr "Vaptcha设置"
+
+#~ msgid "vaptcha设置"
+#~ msgstr "VAPTCHA Setting"
